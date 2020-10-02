@@ -1,4 +1,3 @@
-Team venom 
 # Information
 * How to install 
 
