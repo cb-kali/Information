@@ -33,7 +33,7 @@ def about():
     elif choose == 4:
         webbrowser.open(url3)
     elif choose == 0:
-        webbrowser.open(url4)
+        
         webbrowser.open(url3)
         webbrowser.open(url2)
         webbrowser.open(url1)
